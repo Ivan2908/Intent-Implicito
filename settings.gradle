@@ -1,0 +1,2 @@
+rootProject.name='IntentImplicito2'
+include ':app'
